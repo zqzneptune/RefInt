@@ -7,5 +7,7 @@ from manually curated protein complexs, PPIs within the complex were considered 
 
 ## Strategy
 1. Maunally curated protein complexes
-⋅⋅* Homo sapiens: The comprehensive resource of mammalian protein complexes [(CORUM)](http://mips.helmholtz-muenchen.de/corum/)
-⋅⋅* Mus musculus: The comprehensive resource of mammalian protein complexes [(CORUM)](http://mips.helmholtz-muenchen.de/corum/)
+
+* Homo sapiens: The comprehensive resource of mammalian protein complexes [(CORUM)](http://mips.helmholtz-muenchen.de/corum/)
+
+* Mus musculus: The comprehensive resource of mammalian protein complexes [(CORUM)](http://mips.helmholtz-muenchen.de/corum/)
