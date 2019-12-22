@@ -11,3 +11,12 @@ from manually curated protein complexs, PPIs within the complex were considered 
 * Homo sapiens: The comprehensive resource of mammalian protein complexes [(CORUM)](http://mips.helmholtz-muenchen.de/corum/)
 
 * Mus musculus: The comprehensive resource of mammalian protein complexes [(CORUM)](http://mips.helmholtz-muenchen.de/corum/)
+
+## Available Data
+**Homo sapiens**
+[RefIntHs](https://github.com/zqzneptune/RefInt/blob/master/Data/RefIntHs.RDS)
+[RefComplex](https://github.com/zqzneptune/RefInt/blob/master/Data/CORUM_03.09.2018_Hs_Complex_n_2357.RDS)
+
+**Mus musculus**
+[RefIntMm](https://github.com/zqzneptune/RefInt/blob/master/Data/RefIntMm.RDS)
+[RefComplex](https://github.com/zqzneptune/RefInt/blob/master/Data/CORUM_03.09.2018_Mm_Complex_n_529.RDS)
